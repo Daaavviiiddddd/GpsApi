@@ -1,0 +1,12 @@
+# Archivos de Visual Studio
+.vs/
+*.vsidx
+*.user
+*.suo
+
+# Binarios y builds
+bin/
+obj/
+
+# Archivos de configuración locales
+launchSettings.json
