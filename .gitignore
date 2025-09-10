@@ -7,6 +7,9 @@
 # Binarios y builds
 bin/
 obj/
+out/
 
 # Archivos de configuración locales
 launchSettings.json
+
+out/
